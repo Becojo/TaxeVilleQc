@@ -35,7 +35,7 @@ Je comptes en faire une petite web app. pour que les gestionnaires d'immeubles o
 
 ###Authors :
 
-Akim Couture ( [@akimqc](http://https://twitter.com/Akimqc) )
+Akim Couture ( [@akimqc](https://twitter.com/Akimqc) )
 
 ###License : 
 
